@@ -1,2 +1,1 @@
-# bcmediacloud.github.io
-123
+# bcmcloud.github.io

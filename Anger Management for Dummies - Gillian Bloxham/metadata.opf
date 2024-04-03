@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">10ce548c-d7a0-4831-93c0-5a085a24832b</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">10ce548c-d7a0-4831-93c0-5a085a24832b</dc:identifier>
+        <dc:title>Anger Management for Dummies</dc:title>
+        <dc:creator opf:file-as="Bloxham, Gillian &amp; Gentry, W. Doyle" opf:role="aut">Gillian Bloxham</dc:creator>
+        <dc:creator opf:file-as="Bloxham, Gillian &amp; Gentry, W. Doyle" opf:role="aut">W. Doyle Gentry</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.7.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-03-24T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Everyone gets angry. And in a turbulent economy where finances are stretched, property prices waver and unemployment booms, blowing a fuse is par for the course. But you don't have to take it out on others! &lt;em&gt;Anger Management For Dummies, UK Edition&lt;/em&gt; shows you how to work through feelings of rage, emerge from the red mist, and lead a healthier, happier and more positive life.&lt;/p&gt;
+&lt;p&gt;This fully adapted UK edition guides you through ways to recognise and deal with the underlying causes of anger at work, in relationships and in your personal life - and teaches you how to stay positive in spite of all the stresses and strains life throws your way. From letting go of resentments, preventing new rage and dealing with the anger of others, to improving self-expression, honing spiritual calm and getting a good night's sleep, this user-friendly guide tackles the latest anger-busting exercises and therapies (including CBT) and demonstrates how to deal with anger constructively.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>John Wiley &amp; Sons</dc:publisher>
+        <dc:rights>NONE</dc:rights>
+        <dc:language>en</dc:language>
+        <dc:subject>Health &amp; Fitness &amp; Dieting &gt; Counseling &amp; Psychology &gt; Mood Disorders</dc:subject>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
