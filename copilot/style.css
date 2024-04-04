@@ -1,0 +1,1059 @@
+@page {
+    margin-bottom: 5pt;
+    margin-top: 5pt
+    }
+
+.author-byline {
+    color: rgb(0, 0, 0);
+    display: block;
+    font-family: "Univers LT Std";
+    font-size: 1.77778em;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 0.33em;
+    margin-left: 1em;
+    margin-right: 1em;
+    margin-top: 0;
+    text-align: center;
+    text-indent: 0
+    }
+.book-title {
+    color: rgb(0, 0, 0);
+    display: block;
+    font-family: "Univers LT Std";
+    font-size: 1.77778em;
+    font-style: italic;
+    font-weight: bold;
+    line-height: 1em;
+    margin-bottom: 0.33em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: center;
+    text-indent: 0
+    }
+.bullet {
+    background-image: url(images/000008.jpg);
+    background-position: -1.5em top;
+    background-repeat: no-repeat;
+    color: rgb(0, 0, 0);
+    display: block;
+    font-family: "ITC Cheltenham Std";
+    font-size: 0.88889em;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1.2;
+    margin-bottom: 0.58em;
+    margin-left: 4.5em;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: left;
+    text-indent: 0
+    }
+.bullet1 {
+    color: rgb(0, 0, 0);
+    display: block;
+    font-family: "ITC Cheltenham Std";
+    font-size: 0.88889em;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1.2;
+    margin-bottom: 0.58em;
+    margin-left: 7em;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: left;
+    text-indent: -0.85em
+    }
+.bullet2 {
+    color: rgb(0, 0, 0);
+    display: block;
+    font-family: "ITC Cheltenham Std";
+    font-size: 0.88889em;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1.2;
+    margin-bottom: 0.58em;
+    margin-left: 4.5em;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: left;
+    text-indent: 0
+    }
+.calibre {
+    beckground-color: #000007;
+    display: block;
+    font-size: 1.125em;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-left: 5pt;
+    margin-right: 5pt;
+    margin-top: 0;
+    padding-left: 0;
+    padding-right: 0;
+    text-align: center
+    }
+.calibre1 {
+    display: block
+    }
+.calibre2 {
+    height: 100%;
+    width: auto
+    }
+.calibre3 {
+    display: block;
+    font-size: 1.125em;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-left: 5pt;
+    margin-right: 5pt;
+    margin-top: 0;
+    padding-left: 0;
+    padding-right: 0
+    }
+.calibre4 {
+    display: block;
+    font-size: 1.77778em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.67em
+    }
+.calibre5 {
+    font-size: 0.91667em;
+    line-height: normal;
+    vertical-align: super
+    }
+.calibre6 {
+    display: block;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em
+    }
+.calibre7 {
+    font-weight: bold
+    }
+.calibre8 {
+    line-height: 1.2
+    }
+.calibre9 {
+    height: auto;
+    left: 25px;
+    max-width: 100%;
+    width: auto
+    }
+.calibre10 {
+    font-size: 0.75em;
+    line-height: normal;
+    vertical-align: super
+    }
+.calibre11 {
+    height: auto;
+    left: 25px;
+    line-height: 1.2;
+    max-width: 100%;
+    width: auto
+    }
+.calibre12 {
+    display: table-row-group;
+    vertical-align: middle
+    }
+.calibre13 {
+    display: table-row;
+    vertical-align: inherit
+    }
+.chap {
+    color: rgb(0, 0, 0);
+    display: block;
+    font-family: "Univers LT Std";
+    font-size: 1.48148em;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 0.5em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: center;
+    text-decoration: underline;
+    text-indent: 0
+    }
+.chap-title {
+    border-bottom-color: #999;
+    border-bottom-style: dotted;
+    border-bottom-width: 4px;
+    color: rgb(0, 0, 0);
+    display: block;
+    font-family: "Univers LT Std";
+    font-size: 1.77778em;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 1em;
+    margin-bottom: 0.33em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: center;
+    text-indent: 0
+    }
+.code-within-text {
+    color: rgb(0, 0, 0);
+    font-family: "Courier New", "WileyCode STD", Courier, monospace;
+    font-size: 1em;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: left
+    }
+.copyright-disclaimer-box {
+    background-color: #fff;
+    border-bottom-color: currentColor;
+    border-bottom-style: solid;
+    border-bottom-width: 2px;
+    border-left-color: currentColor;
+    border-left-style: solid;
+    border-left-width: 2px;
+    border-right-color: currentColor;
+    border-right-style: solid;
+    border-right-width: 2px;
+    border-top-color: currentColor;
+    border-top-style: solid;
+    border-top-width: 2px;
+    color: rgb(0, 0, 0);
+    display: block;
+    font-family: "ITC Cheltenham Std";
+    font-size: 0.88889em;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1.4em;
+    margin-bottom: 1em;
+    margin-left: 25px;
+    margin-right: 0;
+    margin-top: 1em;
+    padding-bottom: 2px;
+    padding-left: 2px;
+    padding-right: 2px;
+    padding-top: 2px;
+    text-align: left
+    }
+.copyright-text {
+    background-color: #fff;
+    color: rgb(0, 0, 0);
+    display: block;
+    font-family: "ITC Cheltenham Std";
+    font-size: 0.88889em;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1.4em;
+    margin-bottom: 1em;
+    margin-left: 25px;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: left
+    }
+.copyright-text-title {
+    background-color: #fff;
+    color: rgb(0, 0, 0);
+    display: block;
+    font-family: "ITC Cheltenham Std";
+    font-size: 0.88889em;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 1.4em;
+    margin-bottom: 1em;
+    margin-left: 25px;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: left
+    }
+.dummies-table {
+    border-bottom-color: #000;
+    border-bottom-style: double;
+    border-bottom-width: 7px;
+    border-collapse: separate;
+    border-left-color: #FFF;
+    border-left-style: double;
+    border-left-width: 7px;
+    border-right-color: #FFF;
+    border-right-style: double;
+    border-right-width: 7px;
+    border-spacing: 0;
+    border-top-color: #000;
+    border-top-style: double;
+    border-top-width: 7px;
+    display: table;
+    margin-bottom: -0.33em;
+    margin-top: 0.33em;
+    text-indent: 0
+    }
+.fm-heading {
+    color: rgb(0, 0, 0);
+    display: block;
+    font-size: 1.77778em;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 1.25em;
+    margin-bottom: 0.3em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: left;
+    text-indent: 0
+    }
+.fm-normal {
+    background-color: #fff;
+    color: rgb(0, 0, 0);
+    display: block;
+    font-family: "ITC Cheltenham Std";
+    font-size: 0.88889em;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1.2;
+    margin-bottom: 1em;
+    margin-left: 25px;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: left
+    }
+.heading {
+    color: rgb(0, 0, 0);
+    display: block;
+    font-size: 1.77778em;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 1.25em;
+    margin-bottom: 0.3em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1.15em;
+    text-align: left;
+    text-indent: 0
+    }
+.heading1 {
+    color: rgb(0, 0, 0);
+    display: block;
+    font-size: 1.48148em;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 1.25em;
+    margin-bottom: 0;
+    margin-left: 25px;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: left;
+    text-indent: 0
+    }
+.heading2 {
+    color: rgb(0, 0, 0);
+    display: block;
+    font-size: 1em;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-left: 25px;
+    margin-right: 0;
+    margin-top: 1.25em;
+    text-align: left;
+    text-indent: 0
+    }
+.image {
+    display: block;
+    text-align: center
+    }
+.in-this-part {
+    color: rgb(0, 0, 0);
+    display: block;
+    font-family: "I";
+    font-size: 1.48148em;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 0.33em;
+    margin-left: 1.58em;
+    margin-right: 3em;
+    margin-top: 1.58em;
+    text-align: left;
+    text-indent: -0.83em
+    }
+.intro-head {
+    color: rgb(0, 0, 0);
+    display: block;
+    font-family: "I";
+    font-size: 1em;
+    font-style: italic;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 0.33em;
+    margin-left: 1.58em;
+    margin-right: 3em;
+    margin-top: 1.58em;
+    text-align: left;
+    text-indent: -0.83em
+    }
+.intro-last {
+    background-color: #fff;
+    background-image: url(images/000010.jpg);
+    background-position: -1.5em top;
+    background-repeat: no-repeat;
+    border-bottom-color: #999;
+    border-bottom-style: dotted;
+    border-bottom-width: 4px;
+    border-left-style: none;
+    border-right-style: none;
+    border-top-style: none;
+    color: rgb(0, 0, 0);
+    display: block;
+    font-family: "ITC Cheltenham Std";
+    font-size: 0.88889em;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1.2;
+    margin-bottom: 1.89em;
+    margin-left: 2.5em;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: left;
+    text-indent: 0
+    }
+.intro-text {
+    background-color: #fff;
+    background-image: url(images/000010.jpg);
+    background-position: -1.5em top;
+    background-repeat: no-repeat;
+    border-bottom-style: none;
+    border-left-style: none;
+    border-right-style: none;
+    border-top-style: none;
+    color: rgb(0, 0, 0);
+    display: block;
+    font-family: "ITC Cheltenham Std";
+    font-size: 0.88889em;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1.2;
+    margin-bottom: 0.42em;
+    margin-left: 2.5em;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: left;
+    text-indent: 0
+    }
+.mini-tb-body {
+    color: rgb(0, 0, 0);
+    display: table-cell;
+    font-family: "ITC Cheltenham Std";
+    font-size: 0.88889em;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1.2;
+    margin-bottom: 0.53em;
+    margin-left: 0;
+    margin-top: 0.21em;
+    padding-bottom: 1px;
+    padding-left: 1px;
+    padding-right: 1px;
+    padding-top: 1px;
+    text-align: left;
+    vertical-align: inherit
+    }
+.mini-tb-body1 {
+    color: rgb(0, 0, 0);
+    display: block;
+    font-family: "ITC Cheltenham Std";
+    font-size: 0.75em;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1.2;
+    margin-bottom: 0.53em;
+    margin-left: 0;
+    margin-top: 0.21em;
+    text-align: left;
+    text-indent: 0
+    }
+.mini-tb-body2 {
+    color: rgb(0, 0, 0);
+    display: block;
+    font-family: "ITC Cheltenham Std";
+    font-size: 0.88889em;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1.2;
+    margin-bottom: 0.53em;
+    margin-left: 0;
+    margin-top: 0.21em;
+    text-align: left;
+    text-indent: 0
+    }
+.mini-tb-col-head {
+    color: rgb(0, 0, 0);
+    display: table-cell;
+    font-family: "ITC Cheltenham Std";
+    font-size: 0.88889em;
+    font-style: italic;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 0.53em;
+    margin-left: 0;
+    margin-top: 0.21em;
+    padding-bottom: 1px;
+    padding-left: 1px;
+    padding-right: 1px;
+    padding-top: 1px;
+    text-align: left;
+    vertical-align: inherit
+    }
+.mini-tb-col-head1 {
+    color: rgb(0, 0, 0);
+    display: block;
+    font-family: "ITC Cheltenham Std";
+    font-size: 0.75em;
+    font-style: italic;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 0.53em;
+    margin-left: 0;
+    margin-top: 0.21em;
+    text-align: left;
+    text-indent: 0
+    }
+.mini-tb-last {
+    color: rgb(0, 0, 0);
+    display: block;
+    font-family: "ITC Cheltenham Std";
+    font-size: 0.88889em;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1.2;
+    margin-bottom: 1.32em;
+    margin-left: 0;
+    margin-right: 0.63em;
+    margin-top: 0.21em;
+    text-align: left;
+    text-indent: 0
+    }
+.normal-w-icon {
+    color: rgb(0, 0, 0);
+    display: block;
+    font-family: "ITC Cheltenham Std";
+    font-size: 0.88889em;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1.2;
+    margin-bottom: 1em;
+    margin-left: 65px;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: left;
+    text-indent: -40px
+    }
+.num-list {
+    color: rgb(0, 0, 0);
+    display: block;
+    font-family: "ITC Cheltenham Std";
+    font-size: 0.88889em;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1.2;
+    margin-bottom: 5px;
+    margin-left: 40px;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: left
+    }
+.num-list1 {
+    color: rgb(0, 0, 0);
+    display: block;
+    font-family: "ITC Cheltenham Std";
+    font-size: 0.88889em;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1.2;
+    margin-bottom: 5px;
+    margin-left: 55px;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: left
+    }
+.part {
+    color: rgb(0, 0, 0);
+    display: block;
+    font-family: "Univers LT Std";
+    font-size: 1.48148em;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 0.33em;
+    margin-left: 0.25em;
+    margin-right: 1em;
+    margin-top: 0;
+    text-align: center;
+    text-decoration: underline;
+    text-indent: 0
+    }
+.part-title {
+    color: rgb(0, 0, 0);
+    display: block;
+    font-family: "Univers LT Std";
+    font-size: 1.77778em;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 1em;
+    margin-bottom: 0.33em;
+    margin-left: 0.25em;
+    margin-right: 1em;
+    margin-top: 0;
+    text-align: center;
+    text-indent: 0
+    }
+.sb-body {
+    background: #CCC;
+    color: rgb(0, 0, 0);
+    display: block;
+    font-family: "Univers LT Std";
+    font-size: 0.88889em;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1.2;
+    margin-bottom: 1em;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: justify;
+    text-indent: 0
+    }
+.sb-head {
+    background: #CCC;
+    color: rgb(0, 0, 0);
+    display: block;
+    font-family: "Univers LT Std";
+    font-size: 1.48148em;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 1.5em;
+    margin-bottom: -0.1em;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: center;
+    text-indent: 0
+    }
+.sb-indent {
+    background: #CCC;
+    background-image: url(images/000008.jpg);
+    background-repeat: no-repeat;
+    color: rgb(0, 0, 0);
+    display: block;
+    font-family: "Univers LT Std";
+    font-size: 0.88889em;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1.2;
+    margin-bottom: 1em;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: justify;
+    text-indent: 20px
+    }
+.sidebar {
+    background: #CCC;
+    border-bottom-color: #000;
+    border-bottom-style: double;
+    border-bottom-width: 8px;
+    border-collapse: collapse;
+    border-left-color: #000;
+    border-left-style: solid;
+    border-left-width: 2px;
+    border-right-color: #000;
+    border-right-style: solid;
+    border-right-width: 2px;
+    border-spacing: 0;
+    border-top-color: #000;
+    border-top-style: double;
+    border-top-width: 8px;
+    display: block;
+    margin-bottom: 8px;
+    margin-left: 5px;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: center;
+    text-indent: 0
+    }
+.tb-body {
+    border-bottom-color: #000;
+    border-bottom-style: solid;
+    border-bottom-width: 0.25px;
+    border-collapse: collapse;
+    border-left-color: #FFF;
+    border-left-style: solid;
+    border-left-width: 0.25px;
+    border-right-color: #FFF;
+    border-right-style: solid;
+    border-right-width: 0.25px;
+    border-spacing: 0;
+    border-top-color: #000;
+    border-top-style: solid;
+    border-top-width: 0.25px;
+    color: rgb(0, 0, 0);
+    display: table-cell;
+    font-family: "Univers LT Std";
+    font-size: 0.88889em;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1.2;
+    margin-bottom: 0.53em;
+    margin-left: 0.63em;
+    margin-top: 0.21em;
+    padding-bottom: 1px;
+    padding-left: 1px;
+    padding-right: 1px;
+    padding-top: 1px;
+    text-align: left;
+    vertical-align: inherit
+    }
+.tb-body-last {
+    color: rgb(0, 0, 0);
+    display: table-cell;
+    font-family: "Univers LT Std";
+    font-size: 0.88889em;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1.2;
+    margin-bottom: 2.32em;
+    margin-left: 0.63em;
+    margin-top: 0.21em;
+    padding-bottom: 1px;
+    padding-left: 1px;
+    padding-right: 1px;
+    padding-top: 1px;
+    text-align: left;
+    vertical-align: inherit
+    }
+.tb-body1 {
+    color: rgb(0, 0, 0);
+    display: block;
+    font-family: "Univers LT Std";
+    font-size: 0.75em;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1.2;
+    margin-bottom: 0.53em;
+    margin-left: 0.63em;
+    margin-right: 0;
+    margin-top: 0.21em;
+    text-align: left;
+    text-indent: 0
+    }
+.tb-col-head {
+    border-bottom-color: #000;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-collapse: collapse;
+    border-left-color: #FFF;
+    border-left-style: solid;
+    border-left-width: 1px;
+    border-right-color: #FFF;
+    border-right-style: solid;
+    border-right-width: 1px;
+    border-spacing: 0;
+    border-top-color: #000;
+    border-top-style: solid;
+    border-top-width: 1px;
+    color: rgb(0, 0, 0);
+    display: table-cell;
+    font-family: "Univers LT Std";
+    font-size: 0.88889em;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 0.53em;
+    margin-left: 0.63em;
+    margin-top: 0.21em;
+    padding-bottom: 1px;
+    padding-left: 1px;
+    padding-right: 1px;
+    padding-top: 1px;
+    text-align: left;
+    vertical-align: inherit
+    }
+.tb-col-head1 {
+    color: rgb(0, 0, 0);
+    display: block;
+    font-family: "Univers LT Std";
+    font-size: 0.75em;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 0.53em;
+    margin-left: 0.63em;
+    margin-right: 0;
+    margin-top: 0.21em;
+    text-align: left;
+    text-indent: 0
+    }
+.tb-head {
+    display: table-cell;
+    padding-bottom: 1px;
+    padding-left: 1px;
+    padding-right: 1px;
+    padding-top: 1px;
+    text-align: inherit;
+    vertical-align: inherit
+    }
+.tb-head1 {
+    color: rgb(0, 0, 0);
+    display: block;
+    font-family: "Univers LT Std";
+    font-size: 1em;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 0.33em;
+    margin-left: 0.5em;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: left;
+    text-indent: 0
+    }
+.tb-last {
+    color: rgb(0, 0, 0);
+    display: block;
+    font-family: "Univers LT Std";
+    font-size: 0.75em;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1.2;
+    margin-bottom: 1.32em;
+    margin-left: 0.63em;
+    margin-right: 0;
+    margin-top: 0.21em;
+    text-align: left;
+    text-indent: 0
+    }
+.toc-chap {
+    color: rgb(0, 0, 0);
+    display: block;
+    font-family: "ITC Cheltenham Std";
+    font-size: 0.66667em;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1.2;
+    margin-bottom: 1em;
+    margin-left: 30px;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: left
+    }
+.toc-head {
+    color: rgb(0, 0, 0);
+    display: block;
+    font-family: "ITC Cheltenham Std";
+    font-size: 0.66667em;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1.2;
+    margin-bottom: 1em;
+    margin-left: 40px;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: left
+    }
+.toc-head1 {
+    color: rgb(0, 0, 0);
+    display: block;
+    font-family: "ITC Cheltenham Std";
+    font-size: 0.66667em;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1.2;
+    margin-bottom: 1em;
+    margin-left: 65px;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: left
+    }
+.toc-part {
+    color: rgb(0, 0, 0);
+    display: block;
+    font-family: "ITC Cheltenham Std";
+    font-size: 1em;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1.2;
+    margin-bottom: 1em;
+    margin-left: 20px;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: left
+    }
+.unnumbered {
+    color: rgb(0, 0, 0);
+    display: block;
+    font-family: "ITC Cheltenham Std";
+    font-size: 0.88889em;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1.2;
+    margin-bottom: 0.58em;
+    margin-left: 55px;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: left;
+    text-indent: 0
+    }
+.unnumbered-last {
+    color: rgb(0, 0, 0);
+    display: block;
+    font-family: "ITC Cheltenham Std";
+    font-size: 0.88889em;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1.2;
+    margin-bottom: 1.16em;
+    margin-left: 55px;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: left;
+    text-indent: 0
+    }
+.zcheltbold {
+    font-family: "ITC Cheltenham Std";
+    font-style: normal;
+    font-weight: bold
+    }
+.zcheltbold1 {
+    font-family: "ITC Cheltenham Std";
+    font-style: normal;
+    font-weight: bold;
+    line-height: 1.2
+    }
+.zcheltbolditalic {
+    font-family: "ITC Cheltenham Std";
+    font-style: italic;
+    font-weight: bold
+    }
+.zcheltbolditalic1 {
+    font-family: "ITC Cheltenham Std";
+    font-style: italic;
+    font-weight: bold;
+    line-height: 1.2
+    }
+.zcheltitalic {
+    font-family: "ITC Cheltenham Std";
+    font-style: italic;
+    font-weight: normal;
+    line-height: 1.2
+    }
+.zunivbold {
+    font-family: "Univers LT Std";
+    font-style: normal;
+    font-weight: bold;
+    line-height: 1.2
+    }
+.zunivbolditalic {
+    font-family: "Univers LT Std";
+    font-style: italic;
+    font-weight: bold
+    }
+.zunivitalic {
+    font-family: "Univers LT Std";
+    font-style: italic;
+    font-weight: normal;
+    line-height: 1.2
+    }
+
+@page {
+    margin-bottom: 5pt;
+    margin-top: 5pt
+    }
+@font-face {
+    font-family: "ITC Cheltenham Std";
+    font-style: normal;
+    font-weight: normal
+    }
+@font-face {
+    font-family: "ITC Cheltenham Std";
+    font-style: italic;
+    font-weight: normal
+    }
+@font-face {
+    font-family: "ITC Cheltenham Std";
+    font-style: normal;
+    font-weight: bold
+    }
+@font-face {
+    font-family: "ITC Cheltenham Std";
+    font-style: italic;
+    font-weight: bold
+    }
+@font-face {
+    font-family: "Univers LT Std";
+    font-style: normal;
+    font-weight: normal
+    }
+@font-face {
+    font-family: "Univers LT Std";
+    font-style: italic;
+    font-weight: normal
+    }
+@font-face {
+    font-family: "Univers LT Std";
+    font-style: normal;
+    font-weight: bold
+    }
+@font-face {
+    font-family: "Univers LT Std";
+    font-style: italic;
+    font-weight: bold
+    }
+@font-face {
+    font-family: "WileyCode STD";
+    font-style: normal;
+    font-weight: normal
+    }
+@font-face {
+    font-family: "WileyCode STD";
+    font-style: normal;
+    font-weight: bold
+    }
+@font-face {
+    font-family: "WileyCode STD";
+    font-style: italic;
+    font-weight: bold
+    }
+@font-face {
+    font-family: "WileyCode STD";
+    font-style: italic;
+    font-weight: normal
+    }
+@font-face {
+    font-family: "ChicagoLaser Std";
+    font-style: normal;
+    font-weight: normal;
+    src: url(OEBPS/Fonts/ChicagoLaserSTD.otf)
+    }
+@font-face {
+    font-family: "ITC Zapf Dingbats Std";
+    font-style: normal;
+    font-weight: normal;
+    src: url(OEBPS/Fonts/ZapfDingbatsStd.otf)
+    }
+@font-face {
+    font-family: "Symbol Std";
+    font-style: normal;
+    font-weight: normal;
+    src: url(OEBPS/Fonts/SymbolStd.otf)
+    }
+@font-face {
+    font-family: "Bullet Bible STD";
+    font-style: normal;
+    font-weight: normal;
+    src: url(OEBPS/Fonts/BulletBibleSTD.otf)
+    }
+
